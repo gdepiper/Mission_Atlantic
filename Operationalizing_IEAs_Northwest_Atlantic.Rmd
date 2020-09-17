@@ -1,7 +1,7 @@
 ---
 title: "Operatinalizing IEAs"
 subtitle: "Northwest Atlantic <br /> September 2020"
-author: "Geret DePiper, Sarah Gaichas, Sean Lucey, Brandon Muffley <br /> US Northeast Regional IEA Team <br /> ICES WGNARS <br/> MAFMC EAFM Team"
+author: "Geret DePiper, Sarah Gaichas, Sean Lucey <br /> US Northeast Regional IEA Team <br /> ICES WGNARS <br/> MAFMC EAFM Team"
 output:
   xaringan::moon_reader:
     css: ["default", "libs/EDAB_theme3_508_SOE_16by9.css"]
@@ -134,15 +134,16 @@ https://www.integratedecosystemassessment.noaa.gov/national/IEA-approach
 ![IEA loop on left, with blue arrow pointing to Mid-Atlantic EAFM framework, full detail in speaker notes](Mission_Atlantic_images/Arrow.png)
 ???
 ---
-## Report Evolution
-**2012**
+## Report Evolution: **2012**
+
 ![2012 Ecosystem Status Report executive summary and table of contents.](Mission_Atlantic_images/2012_ESR.png)
 ???
 ---
 
-## Report Evolution
-**2017**
-![img:2017 State of the Ecosystem executive summary and table of contents., 80%](Mission_Atlantic_images/2017SOE.png)
+## Report Evolution: **2017**
+
+.center[![:img 2017 State of the Ecosystem executive summary and table of contents., 70%](Mission_Atlantic_images/2017SOE.png)
+]
 
 ???
 ---
@@ -269,5 +270,4 @@ sarah.gaichas@noaa.gov
 
 sean.lucey@noaa.gov
 
-bmuffley@mafmc.org
 ]
