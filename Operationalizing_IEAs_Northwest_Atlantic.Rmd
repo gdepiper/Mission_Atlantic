@@ -1,6 +1,6 @@
 ---
 title: "Operatinalizing IEAs"
-subtitle: "Northwest Atlantic <br /> September 2020"
+subtitle: "Northwest Atlantic <br /> October 1, 2020"
 author: "Geret DePiper, Sarah Gaichas, Sean Lucey <br /> US Northeast Regional IEA Team <br /> ICES WGNARS <br/> MAFMC EAFM Team"
 output:
   xaringan::moon_reader:
@@ -248,7 +248,7 @@ https://gdepiper.github.io/Summer_Flounder_Conceptual_Models/sfconsmod_riskfacto
 ---
 ## Questions? Thank you!
 
-* [Mid-Atlantic Council EAFM paper](https://www.frontiersin.org/articles/10.3389/fmars.2016.00105/full)
+* [ICES WGNARS IEA Overview](https://academic.oup.com/icesjms/article/74/8/2076/3094701)
 
 * [Mid-Atlantic Council Risk Assessment paper](https://www.frontiersin.org/articles/10.3389/fmars.2018.00442/full#h11)
 
@@ -258,7 +258,7 @@ https://gdepiper.github.io/Summer_Flounder_Conceptual_Models/sfconsmod_riskfacto
   
 * [Mid-Atantic April 2020 EAFM updates, including SOE](https://www.mafmc.org/s/Tab01_2020-SOE-Report_2020-04.pdf)
 
-* Slides available at https://noaa-edab.github.io/presentations
+* Slides available at https://gdepiper.github.io/Mission_Atlantic_kickoff/
 
 .pull-left[
 Contacts:  
